@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zwh.moe.ico",
     "slug": "",
     "status": "up",
-    "uptime": "5.87%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "5.87%",
-    "uptimeMonth": "5.87%",
-    "uptimeYear": "5.87%",
-    "time": 5988,
-    "timeDay": 5988,
-    "timeWeek": 5988,
-    "timeMonth": 5988,
-    "timeYear": 5988,
-    "dailyMinutesDown": {
-      "2024-08-20": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6130,
+    "timeDay": 6130,
+    "timeWeek": 6130,
+    "timeMonth": 6130,
+    "timeYear": 6130,
+    "dailyMinutesDown": {}
   },
   {
     "name": "博客 API",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bk.zwh.moe.ico",
     "slug": "",
     "status": "up",
-    "uptime": "6.17%",
-    "uptimeDay": "6.17%",
-    "uptimeWeek": "6.17%",
-    "uptimeMonth": "6.17%",
-    "uptimeYear": "6.17%",
-    "time": 5988,
-    "timeDay": 5988,
-    "timeWeek": 5988,
-    "timeMonth": 5988,
-    "timeYear": 5988,
-    "dailyMinutesDown": {
-      "2024-08-20": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6130,
+    "timeDay": 6130,
+    "timeWeek": 6130,
+    "timeMonth": 6130,
+    "timeYear": 6130,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TeleBlog",
@@ -81,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.zwh.moe.ico",
     "slug": "tele-blog",
     "status": "down",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 348,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {
-      "2024-08-20": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
