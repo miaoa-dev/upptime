@@ -6,16 +6,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6054,
     "timeDay": 5946,
     "timeWeek": 6103,
-    "timeMonth": 6031,
+    "timeMonth": 6083,
     "timeYear": 6054,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "博客 API",
@@ -40,10 +42,10 @@
     "url": "https://xlog.zwh.moe",
     "icon": "https://icons.duckduckgo.com/ip3/xlog.zwh.moe.ico",
     "slug": "xlog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
@@ -51,7 +53,9 @@
     "timeWeek": 535,
     "timeMonth": 655,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 1
+    }
   },
   {
     "name": "备用站",
@@ -60,16 +64,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6054,
     "timeDay": 5946,
     "timeWeek": 6103,
-    "timeMonth": 6031,
+    "timeMonth": 6083,
     "timeYear": 6054,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 1
+    }
   },
   {
     "name": "TeleBlog",
