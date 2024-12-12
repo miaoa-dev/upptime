@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zwh.moe.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6054,
-    "timeDay": 5946,
-    "timeWeek": 6103,
-    "timeMonth": 6086,
+    "timeDay": 6324,
+    "timeWeek": 6086,
+    "timeMonth": 6137,
     "timeYear": 6054,
-    "dailyMinutesDown": {
-      "2024-12-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "博客 API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 142,
-    "timeWeek": 137,
-    "timeMonth": 160,
-    "timeYear": 177,
+    "time": 176,
+    "timeDay": 57,
+    "timeWeek": 131,
+    "timeMonth": 159,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xlog.zwh.moe.ico",
     "slug": "xlog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 480,
-    "timeWeek": 555,
-    "timeMonth": 656,
-    "timeYear": 658,
-    "dailyMinutesDown": {
-      "2024-12-11": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 661,
+    "timeDay": 839,
+    "timeWeek": 570,
+    "timeMonth": 673,
+    "timeYear": 661,
+    "dailyMinutesDown": {}
   },
   {
     "name": "备用站",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bk.zwh.moe.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6054,
-    "timeDay": 5946,
-    "timeWeek": 6103,
-    "timeMonth": 6086,
+    "timeDay": 6324,
+    "timeWeek": 6086,
+    "timeMonth": 6137,
     "timeYear": 6054,
-    "dailyMinutesDown": {
-      "2024-12-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TeleBlog",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 67,
-    "timeWeek": 202,
+    "time": 141,
+    "timeDay": 60,
+    "timeWeek": 165,
     "timeMonth": 161,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   }
 ]
